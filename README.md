@@ -3,7 +3,7 @@
 A static single-page responsive site that makes use of semantic HTML elements.
 
 ## Initial setup
-- Locally clone a version to play the game or adapt the content
+- Locally clone a version to view or adapt the content
   `$ git clone https://github.com/phHank/tea-cozy.git`
 
 ## Dependencies
